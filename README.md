@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdrianCocian
-- 👀 I’m interested in A.I.
-- 🌱 I’m currently learning how to use A.I. in my reasearch
-- 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me 0757499133
+- 👀 I’m interested in A.I. use in veterinary public health.
+- 🌱 I’m currently learning how to use A.I. in my research.
+- 💞️ I’m looking to collaborate on modeling projects to learn and understand better.
+- 📫 How to reach me +40757499133
 
 <!---
 AdrianCocian/AdrianCocian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
